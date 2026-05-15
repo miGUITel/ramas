@@ -1,6 +1,5 @@
 ## Vamos a trabajar con ramas
-* v1 Estoy probando a hacer unos cambios a ver si no rompo nada
-* v2 Parece que los cambios van bien
-* v3 Hemos hecho unos pequeños retoques y lo pasaremos a producción
-* v4 Añado puntos para que se vean los saltos
-* v5 Realizo un pequeño cambio
+v1 Estoy probando a hacer unos cambios a ver si no rompo nada
+v2 Parece que los cambios van bien
+v2.1 variación posterior de v2, para volver a ese punto del árbol, a ver qué pasa con rama variaciónV5 cuando la mergeeomos con ésta
+v2.1 voy a mergear con producción, para volver producción a este punto
